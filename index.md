@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- My instructor talks super fast which makes my class extremely efficient.
 - List
 
 1. Numbered
